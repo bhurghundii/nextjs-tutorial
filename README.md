@@ -4,3 +4,6 @@ This is an implementation of the Next.JS tutorial. This is a special implementat
 
 ## External Routes, Fallbacks, Catch Alls, Routers and 404s
 https://nextjs.org/learn/basics/dynamic-routes/dynamic-routes-details
+
+## SEO 
+https://nextjs.org/learn/seo/introduction-to-seo
