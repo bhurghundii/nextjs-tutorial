@@ -20,6 +20,9 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        {/* Meta tags: https://nextjs.org/learn/seo/crawling-and-indexing/metatags */}
+        <meta name="google" content="nositelinkssearchbox" key="sitelinks" />
+        <meta name="google" content="notranslate" key="notranslate" />
       </Head>
 
       <Alert type={"success"}>This blog is live</Alert>
